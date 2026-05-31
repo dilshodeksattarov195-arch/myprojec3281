@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdalidate",
+        "uuid": 14206730,
+        "checksum": "ikksi"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
